@@ -1,13 +1,22 @@
 # 📽️ YouTube Summarizer with Gemini AI
 
-This Streamlit app allows users to paste a YouTube video link and get a quick summary using **Google's Gemini Pro model**.
+A sleek and powerful **Streamlit web app** that summarizes YouTube videos using **Google's Gemini Pro model** and the **YouTube Transcript API**.  
+Just paste a video link, and get a clear, concise summary in seconds! ⚡
+
+---
 
 ## 🔧 Tech Stack
-- Streamlit
-- Gemini Pro (via `google-generativeai`)
-- YouTube Transcript API
 
-## 🚀 How to Run Locally
+- 🧠 [Gemini Pro (Google Generative AI)](https://ai.google.dev/)
+- 🧪 [Streamlit](https://streamlit.io/)
+- 📜 [YouTube Transcript API](https://pypi.org/project/youtube-transcript-api/)
 
-1. Clone this repo or download the files.
-2. Install dependencies:
+---
+
+## 🚀 Run Locally
+
+### Step 1: Clone this repository
+
+```bash
+git clone https://github.com/Vaish123-M/Utube-summarizer.git
+cd Utube-summarizer
